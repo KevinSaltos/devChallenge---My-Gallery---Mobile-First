@@ -9,7 +9,7 @@ html {
 }
 
 header {
-     margin-left: 32%; margin-top: 2%; margin-bottom: 10%;
+     margin-left: 32%; margin-top: 1%; margin-bottom: 1%;
      font-family: Verdana;
 }
 
@@ -74,8 +74,6 @@ header {
 
 .imgs__4 {
 	 width: 90%;
- 
-
 }
 
 .imgs__2 {
